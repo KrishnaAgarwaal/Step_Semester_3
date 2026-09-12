@@ -1,4 +1,4 @@
-package assignment_problem.week1;
+package assignment_problem;
 
 public class WarehouseInventoryBalancer {
 
